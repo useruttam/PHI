@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PHI/static/css/main.18d905bd.css",
+    "main.js": "/PHI/static/js/main.32a285c3.js",
+    "index.html": "/PHI/index.html",
+    "main.18d905bd.css.map": "/PHI/static/css/main.18d905bd.css.map",
+    "main.32a285c3.js.map": "/PHI/static/js/main.32a285c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d905bd.css",
+    "static/js/main.32a285c3.js"
+  ]
+}
