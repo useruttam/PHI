@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "Date_today": "09-03-2022",
+      "DoctorsName": "waterfoot road",
+      "DIagnosis_tested": "cold",
+      "Prescription_given": "jenny"
+    },
+    {
+      "id": 2,
+      "Date_today": "09-03-2022",
+      "DoctorsName": "tall town",
+      "DIagnosis_tested": "cancer",
+      "Prescription_given": "jessica"
+    },
+    {
+      "id": 3,
+      "Date_today": "09-03-2022",
+      "DoctorsName": "lesly road",
+      "DIagnosis_tested": "aids",
+      "Prescription_given": "tony"
+    },
+    {
+      "id": 4,
+      "Date_today": "09-03-2022",
+      "DoctorsName": "miltown manor",
+      "DIagnosis_tested": "typhoid",
+      "Prescription_given": "jeremy"
+    },
+    {
+      "id": 5,
+      "Date_today": "09-03-2022",
+      "DoctorsName": "miltown manor",
+      "DIagnosis_tested": "typhoid",
+      "Prescription_given": "jeremy"
+    }
+  ]
